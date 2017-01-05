@@ -1,0 +1,1 @@
+In this project i will try to mimic the google home page.
